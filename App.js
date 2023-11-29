@@ -3,7 +3,7 @@ const Photo = {
   height: '60px',
   backgroundSize: 'cover',
   borderRadius: '50%',
-  margin: '10px'
+  margin: '30px'
 };
 
 const bold = {
@@ -19,15 +19,15 @@ const list = {
 }
 
 const ADbox = {
-  height: '315px',
-  width: '550px',
+  height: '3330px',
+  width: '90px',
   borderRadius: '10px 10px 10px 10px',
-  border: '1px solid #e5e5e5',
+  border: '1px opaque #e5e5e5',
   marginTop: '10px'
 }
 
 const boximg = {
-  width: '400px',
+  width: '250px',
 }
 
 const icon = {
@@ -104,28 +104,28 @@ const hrwidth = {
 let DATA = [
   {
     id: 1,
-    author: 'Cookie',
+    author: 'Alphie',
     bio: 'Quam nunc et donec nec turpis a, semper.',
     photo: 'http://michaeldepippo.com/wp-content/uploads/2015/04/Monster_Bite_ChocolateChip_2.jpg',
     adpic: 'https://images-gmi-pmc.edge-generalmills.com/5504a4d4-ac62-4e63-b475-563ba492ccff.jpg'
   },
   {
     id: 2,
-    author: 'Cakeee',
+    author: 'Dreymond',
     bio: 'Lectus phasellus, mi ut nam velit per et dictum.',
     photo: 'http://img.taste.com.au/Dtv0xl-v/w643-h428-cfill-q90/taste/2016/11/black-forest-cake-92535-1.jpeg',
     adpic: 'http://assets.kraftfoods.com/recipe_images/opendeploy/%20138280-49fdab4f7bf207b3cc31f72186c86b0a642f0802_642x428.jpg'
   },
   {
     id: 3,
-    author: 'Fruit',
+    author: 'garbonzo',
     bio: 'Ipsum commodo, et placerat neque cursus.',
     photo: 'https://therawherbalist.com/wp-content/uploads/2017/12/04-ZS-Banned-Fruit-80-ab.jpg',
     adpic: 'https://spindriftfresh.com/wp-content/uploads/2017/12/fruit-header-1.jpg'
   },
   {
     id: 4,
-    author: 'Chocolate',
+    author: 'Caroline',
     bio: 'Ipsum commodo, et placerat neque cursus.',
     photo: 'http://dubeat.com/wp-content/uploads/chocolates2.jpg',
     adpic: 'https://aadl.org/sites/default/files/inline-images/chocolate_0.jpeg'
